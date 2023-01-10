@@ -1,0 +1,11 @@
+{
+  "extends": "eslint:recommended",
+  "overrides": [
+    {
+      "files": ["index.js"],
+      "parserOptions": {
+        "sourceType": "module"
+      }
+    }
+  ]
+}
